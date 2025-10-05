@@ -1,0 +1,1 @@
+![Output Screenshot](image/StocksPriceOutput.png)
