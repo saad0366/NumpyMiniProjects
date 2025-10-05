@@ -1,1 +1,1 @@
-![Output Screenshot](images/StudentsGradesAnalyzerOutput.png)
+![Output Screenshot](image/StudentsGradesAnalyzerOutput.png)
